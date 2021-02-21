@@ -5,5 +5,3 @@ parser.add_argument("echo")
 
 args = parser.parse_args()
 
-
-
