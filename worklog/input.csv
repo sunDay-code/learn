@@ -1,0 +1,4 @@
+Table 1
+FlowSensorCommand,FlowSensorData,MotorSpeedCmd,isMotorPwrDisabled,isDriverStart,HumidHeaterCmd,isHumidHeaterEnabled,CircuitHeaterCurrentCmd,isCircuitHeaterEnabled,isCircuitTempDisabled
+1,1,10.00,0,1,0,1,0.30,1,1
+2,2,10.00,0,1,0,1,0.30,1,1
