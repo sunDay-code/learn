@@ -1,6 +1,8 @@
 """
 Abstract Factory
-Usage: provide a way to extend and customize standard components
+provide a way to extend and customize standard components
+
+produce families of related objects without specifying their concrete classes.
 
 Reference: https://refactoring.guru/design-patterns/abstract-factory/python/example
 """
