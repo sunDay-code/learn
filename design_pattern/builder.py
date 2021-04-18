@@ -1,13 +1,13 @@
-# Builder
-# Usage: single creation method and several methods to configure the
-#        resulting object.
-#
-# Reference: https://refactoring.guru/design-patterns/builder/python/example
-#
+"""
+Builder
+Usage: single creation method and several methods to configure the resulting object.
+
+Reference: https://refactoring.guru/design-patterns/builder/python/example
+"""
 
 
 from __future__ import annotations
-from abc import ABC, abstractmethod, abstractproperty
+from abc import ABC, abstractmethod
 from typing import Any
 
 

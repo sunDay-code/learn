@@ -1,9 +1,11 @@
-# Singleton
-# A "singleton" object: the lone object returned by
-# its class every time the class is called
-#
-# Reference: https://python-patterns.guide/gang-of-four/singleton/
-#
+"""
+Singleton
+    A "singleton" object: the lone object returned by
+    its class every time the class is called
+
+Reference: https://python-patterns.guide/gang-of-four/singleton/
+"""
+
 
 class Logger(object):
     _instance = None
